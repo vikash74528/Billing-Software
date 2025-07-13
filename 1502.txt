@@ -1,0 +1,15 @@
+	 Welcome Codewith kiran Mini Mall
+ Bill Number:1502
+ Customer Name:
+ Phone Number:
+ Customer Email:
+ ==================================================
+ Products			QTY	Price
+ ================================================== Roadstar		1		1800
+ Roadstar		1		1800
+
+ ================================
+ Sub Amount:			Rs.3600.00
+ Tax Amount:			Rs.18.00
+ Total Amount:			Rs.3618.00
+=================================

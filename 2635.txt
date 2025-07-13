@@ -1,0 +1,15 @@
+	 Welcome Codewith kiran Mini Mall
+ Bill Number:2635
+ Customer Name:
+ Phone Number:
+ Customer Email:
+ ==================================================
+ Products			QTY	Price
+ ================================================== Jack&Jones		1		1700
+ Jack&Jones		1		1700
+
+ ================================
+ Sub Amount:			Rs.3400.00
+ Tax Amount:			Rs.17.00
+ Total Amount:			Rs.3417.00
+=================================

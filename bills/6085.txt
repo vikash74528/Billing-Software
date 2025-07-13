@@ -1,0 +1,15 @@
+	 Welcome Codewith kiran Mini Mall
+ Bill Number:6085
+ Customer Name:gurdeep
+ Phone Number:7854120965
+ Customer Email:gurdeep@gmail.com
+ ==================================================
+ Products			QTY	Price
+ ================================================== Roadstar		1		1800
+ Roadstar		1		1800
+
+ ================================
+ Sub Amount:			Rs.3600.00
+ Tax Amount:			Rs.18.00
+ Total Amount:			Rs.3618.00
+=================================

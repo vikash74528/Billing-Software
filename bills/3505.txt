@@ -1,0 +1,33 @@
+	 Welcome Codewith kiran Mini Mall
+ Bill Number:3505
+ Customer Name:
+ Phone Number:
+ Customer Email:
+ ==================================================
+ Products			QTY	Price
+ ==================================================
+ Olay		1		18
+ Olay		1		18
+ Olay		1		18 Olay		1		18
+ Olay		1		18
+ Olay		1		18
+ Olay		1		18
+
+ ================================
+ Sub Amount:			Rs.54.00
+ Tax Amount:			Rs.0.36
+ Total Amount:			Rs.54.36
+================================= Olay		1		18
+ Olay		1		18 Olay		1		18
+ Olay		1		18
+ Olay		1		18
+ Olay		1		18
+ Olay		1		18 Olay		1		18
+ Olay		1		18
+ Olay		1		18
+
+ ================================
+ Sub Amount:			Rs.54.00
+ Tax Amount:			Rs.0.36
+ Total Amount:			Rs.54.36
+=================================

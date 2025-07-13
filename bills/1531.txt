@@ -1,0 +1,13 @@
+	 Welcome Codewith kiran Mini Mall
+ Bill Number:1531
+ Customer Name:vikash
+ Phone Number:784525695
+ Customer Email:rfdf@gmail.com
+ ==================================================
+ Products			QTY	Price
+ ==================================================
+ ================================
+ Sub Amount:			Rs.1800.00
+ Tax Amount:			Rs.0.00
+ Total Amount:			Rs.1800.00
+=================================
