@@ -281,7 +281,7 @@ class Bill_App:
         self.l.append(self.m)
 # mysql ==================================================================================================================================
         import pymysql as sql
-        db = sql.connect(host='localhost', user='root', password='Python790@61', db='emp')
+        db = sql.connect(host='localhost', user='root', password='vikash88736@78', db='emp')
         cur = db.cursor()
         s = "insert into customer_details values('%s','%s','%s','%s','%s','%s')" % (self.c_name.get(), self.c_email.get(), self.c_phon.get(), self.product.get(), self.prices.get(), self.qty.get())
         result = cur.execute(s)

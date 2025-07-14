@@ -1,0 +1,13 @@
+	 Welcome with VK mini mall
+ Bill Number:3044
+ Customer Name:Vikash Kumar
+ Phone Number:78645656516
+ Customer Email:vikash@gmail.com
+ ==================================================
+ Products			QTY	Price
+ ==================================================
+ ================================
+ Sub Amount:			Rs.1800.00
+ Tax Amount:			Rs.0.00
+ Total Amount:			Rs.1800.00
+=================================
